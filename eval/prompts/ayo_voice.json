@@ -1,0 +1,20 @@
+{
+  "provider": "elevenlabs",
+  "voice": "Bukola",
+  "voice_id": "oC2pCZZWEDRe6lmZpaaw",
+  "model_id": "eleven_v4_turbo",
+  "output_format": "ulaw_8000",
+  "tags_by_mode": {
+    "distress": "[softly]",
+    "whisper": "[whispers]",
+    "everyday": ""
+  },
+  "chosen_by": "Naomi, Nov 14 2026: greeting version 3 (calmer and slower)",
+  "greeting_voice_settings": {
+    "stability": 0.7,
+    "similarity_boost": 0.75,
+    "speed": 0.92
+  },
+  "reply_voice_settings": null,
+  "notes": "Greeting uses the calm settings Naomi chose (version 3). Replies use Bukola's default settings plus [softly]/[whispers] tags by mode; Naomi liked replies that way."
+}
